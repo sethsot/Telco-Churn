@@ -3,5 +3,7 @@ notebook
 pandas
 seaborn
 scikit-learn
-catboost
-xgboost
+matplotlib
+python-dotenv
+numpy
+warnings
