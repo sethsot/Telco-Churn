@@ -1,2 +1,9 @@
-# Telco-Churn
-LP2 Project
+# ML Classification - Telco-Churn
+
+## Overview
+
+## Setup / Config
+
+## Images
+
+## Authors & Contributors
