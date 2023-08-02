@@ -1,0 +1,7 @@
+jupyter
+notebook
+pandas
+seaborn
+scikit-learn
+catboost
+xgboost
