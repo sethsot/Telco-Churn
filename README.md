@@ -16,6 +16,8 @@
 ...
 
 ## Author
-Seth Opare-Twum
+Github: https://github.com/sethsot/sethsot
+* Githum: @sethsot
+LinkedIn: https://www.linkedin.com/in/%20seth-opare-twum
 
 
