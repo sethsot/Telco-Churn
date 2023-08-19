@@ -7,7 +7,6 @@
 | LP2 | Classification Project-Analysis of Telco Churn |  [Best article of the world](/) | https://app.powerbi.com/links/QmyRZrlBGf?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare(/) |
 
 ## Project Description
-...
 Classification in machine learning and statistics is a supervised learning approach in which the computer program learns from the data given to it and makes new observations or classifications. The main goal is to identify which class/category the new data will fall into. 
 
 ## Objective of Project
@@ -30,6 +29,9 @@ The datasets where extracted from three(3) places.
 * H_o: Contract type does not influence customer Churn
 * H_a: Contract type influences customer Churn
 
+### Conclusion on hypothesis
+Test hypotheis with a chi-square test, we reject the null hypothesis at 5% significance value. 
+
 ## Research Questions
 
 1. How does gender impact customer churn? Are there significant differences in churn rates between male and female customers?
@@ -51,6 +53,7 @@ The datasets where extracted from three(3) places.
 * imbalanced-learn
 
 ## Author
+Seth Opare-Twum
 * Github: https://github.com/sethsot/sethsot
 
 * LinkedIn: https://www.linkedin.com/in/%20seth-opare-twum
