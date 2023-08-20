@@ -34,34 +34,34 @@
 |-----------|-------------|:-------------:|------:|
 | LP2 | Classification Project-Analysis of Telco Churn |  [Best article of the world](/) | https://app.powerbi.com/links/QmyRZrlBGf?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare(/) |
 
-## Project Description
+## Project Description <a name="project-description"></a>
 Classification in machine learning and statistics is a supervised learning approach in which the computer program learns from the data given to it and makes new observations or classifications. The main goal is to identify which class/category the new data will fall into. 
 
-## Objectives of Project
+## Objectives of Project <a name="objectives-of-project"></a>
 1. Learn more about classification models and help the client, a telecommunication company, to understand their data.
 2. Find the lifetime value of each customer.
 know what factors affect the rate at which customers stop using their network.
 3. Predict if a customer will churn or not
 
-## Goal of Project
+## Goal of Project <a name="goal-of-project"></a>
 To analyse customer churn rate and build classification models to perform churn analysis on a telecommunication company's customers
 
-## Data
+## Data <a name="data"></a>
 The datasets where extracted from three(3) places. 
 
 * First dataset - First 3000 records of the dataset was extracted from Microsoft SQL Server
 * Second dataset - The second 2000 records of the dataset was downloaded from OneDrive
 * Third dataset - The third part of the data was downloaded from a GitHub Repository
 
-## Hypothesis
+## Hypothesis <a name="hypothesis"></a>
 * H_o: Contract type does not influence customer Churn
 * H_a: Contract type influences customer Churn
 
-### Conclusion on hypothesis
+### Conclusion on hypothesis <a name="conclusion-on-hypothesis"></a>
 Test hypotheis with a chi-square test, we reject the null hypothesis at 5% significance value. 
 
 ## Research Questions
-
+## Research Questions <a name="research-questions"></a>
 1. How does gender impact customer churn? Are there significant differences in churn rates between male and female customers?
 
 2. Does the presence of a partner or dependents influence customer churn? Is there a relationship between marital status and churn behavior?
@@ -73,17 +73,15 @@ Test hypotheis with a chi-square test, we reject the null hypothesis at 5% signi
 
 5. Is there a correlation between the contract term (month-to-month, one year, two years) and churn rates? Are customers on long-term contracts less likely to churn compared to those on month-to-month contracts?
 
-## Installation:
-
+## Installation: <a name="installation:"></a>
 * pyodbc  
 * python-dotenv
 * openpyxl
 * imbalanced-learn
 
-## Author
+## Author <a name="author"></a>
 Seth Opare-Twum
-* Github: https://github.com/sethsot/sethsot
-
-* LinkedIn: https://www.linkedin.com/in/%20seth-opare-twum
+- GitHub: [@sethsot](https://github.com/sethsot/sethsot)
+- LinkedIn: [Seth Opare-Twum](https://www.linkedin.com/in/%20seth-opare-twum)
 
 
