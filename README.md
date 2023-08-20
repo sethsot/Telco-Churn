@@ -25,7 +25,6 @@
     - [ Research Questions ](#-research-Questions-)
     - [ Installation ](#-installation-)
     - [ Author ](#-author-)
- 
     - [ License ](#-license-)
 
 
@@ -60,7 +59,6 @@ The datasets where extracted from three(3) places.
 ### Conclusion on hypothesis <a name="conclusion-on-hypothesis"></a>
 Test hypotheis with a chi-square test, we reject the null hypothesis at 5% significance value. 
 
-## Research Questions
 ## Research Questions <a name="research-questions"></a>
 1. How does gender impact customer churn? Are there significant differences in churn rates between male and female customers?
 
