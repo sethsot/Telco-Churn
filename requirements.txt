@@ -1,9 +1,8 @@
-jupyter
-notebook
+pyodbc
 pandas
-seaborn
-scikit-learn
-matplotlib
-python-dotenv
 numpy
-warnings
+matplotlib
+seaborn
+scipy
+scikit-learn
+imbalanced-learn
