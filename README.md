@@ -31,7 +31,7 @@
 ## Summary <a name="summary"></a>
 | Code      | Name        | Published Article |  Deployed Power BI |
 |-----------|-------------|:-------------:|------:|
-| LP2 | Classification Project-Analysis of Telco Churn |  [Best article of the world](/) | https://app.powerbi.com/links/QmyRZrlBGf?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare(/) |
+| LP2 | Classification Project-Analysis of Telco Churn |  [https://medium.com/@oparetwumseth/classification-project-predicting-customer-churn-528cccf20137](/) | https://app.powerbi.com/links/QmyRZrlBGf?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare(/) |
 
 ## Project Description <a name="project-description"></a>
 Classification in machine learning and statistics is a supervised learning approach in which the computer program learns from the data given to it and makes new observations or classifications. The main goal is to identify which class/category the new data will fall into. 
